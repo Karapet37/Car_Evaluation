@@ -1,0 +1,15 @@
+# Dataset — not committed. Download it from the source in the README:
+# https://archive.ics.uci.edu/dataset/19/car+evaluation
+data/
+
+# Generated Excel report (re-created by running the script)
+# results.xlsx   # uncomment if you do NOT want to commit it
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor / OS cruft
+.DS_Store
